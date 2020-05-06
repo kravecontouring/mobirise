@@ -3780,7 +3780,7 @@ section.lazy-placeholder:after {
 }
 .cid-qTkA127IK8 {
   padding-top: 135px;
-  padding-bottom: 135px;
+  padding-bottom: 120px;
   background-image: url("../../../assets/images/body-contouring-cavitation-peoria-az-1920x1080.jpg");
 }
 .cid-qTkA127IK8 H1 {
@@ -3795,10 +3795,18 @@ section.lazy-placeholder:after {
   color: #232323;
   text-align: left;
 }
+.cid-rYbx4IYtgA {
+  padding-top: 75px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rYbx4IYtgA .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-rYbuXsUkaI {
   background: #ffffff;
-  padding-top: 75px;
-  padding-bottom: 60px;
+  padding-top: 0px;
+  padding-bottom: 75px;
   background: linear-gradient(0deg, #8ac670, #ffffff);
 }
 .cid-rYbuXsUkaI .image-block {
@@ -3818,7 +3826,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rY4BeRyDEw {
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
