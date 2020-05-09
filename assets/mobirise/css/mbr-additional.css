@@ -1612,7 +1612,7 @@ section.lazy-placeholder:after {
 }
 .cid-rXH1q8vYmb {
   padding-top: 120px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background-color: #efefef;
 }
 .cid-rXH1q8vYmb .mbr-section-subtitle {
@@ -1650,27 +1650,86 @@ section.lazy-placeholder:after {
 .cid-rXH1q8vYmb .team-item .item-caption {
   background: #efefef;
 }
-.cid-rXH7oeXFag {
-  background: #465052;
-  padding-top: 45px;
+.cid-rYxbDuhnW8 {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rYxbDuhnW8 .mbr-text,
+.cid-rYxbDuhnW8 blockquote {
+  color: #767676;
+}
+.cid-rYxbDuhnW8 .mbr-text P {
+  text-align: center;
+}
+.cid-rYxaNMmaLI {
+  padding-top: 15px;
   padding-bottom: 45px;
-  background: linear-gradient(0deg, #efefef, #465052);
+  background: #ffffff;
 }
-.cid-rXH7oeXFag .image-block {
-  margin: auto;
+.cid-rYxaNMmaLI .images-container.container-fluid {
+  padding: 0;
 }
-.cid-rXH7oeXFag figcaption {
+.cid-rYxaNMmaLI .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-rYxaNMmaLI .media-container-row .img-item {
+  display: -webkit-flex;
+  flex-direction: column;
+  justify-content: center;
   position: relative;
-}
-.cid-rXH7oeXFag figcaption div {
-  position: absolute;
-  bottom: 0;
   width: 100%;
+  z-index: 1;
+  -webkit-flex-direction: column;
+  -webkit-justify-content: center;
 }
-@media (max-width: 768px) {
-  .cid-rXH7oeXFag .image-block {
+.cid-rYxaNMmaLI .media-container-row .img-item img {
+  width: 100%;
+  min-height: 1px;
+}
+.cid-rYxaNMmaLI .media-container-row .img-item .img-caption {
+  background: #ffffff;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-rYxaNMmaLI .media-container-row .img-item .img-caption p {
+  margin-bottom: 0;
+}
+.cid-rYxaNMmaLI .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-rYxaNMmaLI .img-item {
     width: 100% !important;
   }
+  .cid-rYxaNMmaLI .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+    -webkit-flex-basis: initial !important;
+  }
+}
+.cid-rYxaIS4sq5 {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rYxaIS4sq5 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rYxaIS4sq5 .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rYxaIS4sq5 .mbr-text {
+  color: #767676;
+  text-align: center;
 }
 .cid-rXSsIIOedK {
   padding-top: 60px;
