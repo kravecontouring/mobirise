@@ -3962,7 +3962,7 @@ section.lazy-placeholder:after {
 }
 .cid-qTkA127IK8 {
   padding-top: 135px;
-  padding-bottom: 120px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/body-contouring-cavitation-peoria-az-1920x1080.jpg");
 }
 .cid-qTkA127IK8 H1 {
@@ -3978,36 +3978,6 @@ section.lazy-placeholder:after {
   color: #14cc26;
   text-align: left;
 }
-.cid-s97eS1t82C {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-s97eS1t82C .media-container-row .mbr-text {
-  color: #333333;
-}
-.cid-s97eVWA9ZG {
-  background: #ffffff;
-  padding-top: 15px;
-  padding-bottom: 30px;
-  background: linear-gradient(0deg, #82786e, #ffffff);
-}
-.cid-s97eVWA9ZG .image-block {
-  margin: auto;
-}
-.cid-s97eVWA9ZG figcaption {
-  position: relative;
-}
-.cid-s97eVWA9ZG figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-s97eVWA9ZG .image-block {
-    width: 100% !important;
-  }
-}
 .cid-rYbx4IYtgA {
   padding-top: 45px;
   padding-bottom: 0px;
@@ -4016,40 +3986,60 @@ section.lazy-placeholder:after {
 .cid-rYbx4IYtgA .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rYbuXsUkaI {
-  background: #ffffff;
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background: linear-gradient(0deg, #a3978c, #ffffff);
+.cid-soxaNuV3ay {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background: #efefef;
 }
-.cid-rYbuXsUkaI .image-block {
-  margin: auto;
+.cid-soxaNuV3ay .images-container.container-fluid {
+  padding: 0;
 }
-.cid-rYbuXsUkaI figcaption {
+.cid-soxaNuV3ay .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-soxaNuV3ay .media-container-row .img-item {
+  display: -webkit-flex;
+  flex-direction: column;
+  justify-content: center;
   position: relative;
-}
-.cid-rYbuXsUkaI figcaption div {
-  position: absolute;
-  bottom: 0;
   width: 100%;
+  z-index: 1;
+  -webkit-flex-direction: column;
+  -webkit-justify-content: center;
 }
-@media (max-width: 768px) {
-  .cid-rYbuXsUkaI .image-block {
+.cid-soxaNuV3ay .media-container-row .img-item img {
+  width: 100%;
+  min-height: 1px;
+}
+.cid-soxaNuV3ay .media-container-row .img-item .img-caption {
+  background: #ffffff;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-soxaNuV3ay .media-container-row .img-item .img-caption p {
+  margin-bottom: 0;
+}
+.cid-soxaNuV3ay .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-soxaNuV3ay .img-item {
     width: 100% !important;
   }
-}
-.cid-sox9MLFLlf {
-  padding-top: 45px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-sox9MLFLlf .mbr-section-subtitle {
-  color: #767676;
+  .cid-soxaNuV3ay .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+    -webkit-flex-basis: initial !important;
+  }
 }
 .cid-sox9m6FVQc {
-  padding-top: 30px;
+  padding-top: 60px;
   padding-bottom: 15px;
-  background-color: #c1c1c1;
+  background-color: #cccccc;
 }
 .cid-sox9m6FVQc .item {
   padding-bottom: 2rem;
@@ -4703,14 +4693,6 @@ section.lazy-placeholder:after {
 }
 .cid-rXHTdC93Fl H3 {
   color: #465052;
-}
-.cid-s97fyONb3u {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-s97fyONb3u .media-container-row .mbr-text {
-  color: #333333;
 }
 .cid-s97fEFAdT6 {
   background: #ffffff;
@@ -5888,14 +5870,6 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #14cc26 !important;
 }
-.cid-s97eS1t82C {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-s97eS1t82C .media-container-row .mbr-text {
-  color: #333333;
-}
 .cid-slf4hiwvie {
   padding-top: 30px;
   padding-bottom: 15px;
@@ -6410,14 +6384,6 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #14cc26 !important;
-}
-.cid-s97eS1t82C {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-s97eS1t82C .media-container-row .mbr-text {
-  color: #333333;
 }
 .cid-snuUzEimWQ {
   padding-top: 135px;
