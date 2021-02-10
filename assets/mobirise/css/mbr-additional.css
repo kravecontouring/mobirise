@@ -5870,9 +5870,21 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #14cc26 !important;
 }
-.cid-slf4hiwvie {
-  padding-top: 75px;
+.cid-soD6upWVAH {
+  padding-top: 30px;
   padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-soD6upWVAH .mbr-text,
+.cid-soD6upWVAH blockquote {
+  color: #767676;
+}
+.cid-soD6upWVAH .mbr-text P {
+  text-align: center;
+}
+.cid-slf4hiwvie {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-slf4hiwvie .line {
