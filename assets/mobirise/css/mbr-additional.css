@@ -5917,14 +5917,14 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-soD3wnZvFm {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #2e2e2e;
-}
 .cid-soD1RfwVZ3 {
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
+  background-color: #333333;
+}
+.cid-soD3wnZvFm {
+  padding-top: 15px;
+  padding-bottom: 30px;
   background-color: #333333;
 }
 .cid-sowYpRuz2s {
