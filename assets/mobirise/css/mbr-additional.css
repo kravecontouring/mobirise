@@ -5897,7 +5897,7 @@ section.lazy-placeholder:after {
 .cid-slf4jQzhOR {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #0d0c0c;
+  background-color: #333333;
 }
 .cid-slf4jQzhOR .line {
   background-color: #0d0c0c;
@@ -5916,6 +5916,11 @@ section.lazy-placeholder:after {
   .cid-slf4jQzhOR .inner-container {
     width: 100% !important;
   }
+}
+.cid-soD1RfwVZ3 {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #333333;
 }
 .cid-sowYpRuz2s {
   padding-top: 75px;
