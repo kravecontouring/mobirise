@@ -2595,15 +2595,15 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #333333;
 }
-.cid-s9zrC0KRqo {
+.cid-svegSyGHXY {
   padding-top: 45px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/ultrasonic-cavitation-tape-2000x1388.jpg");
 }
-.cid-s9zrC0KRqo .list-group-item {
+.cid-svegSyGHXY .list-group-item {
   padding: .75rem 3.25rem;
 }
-.cid-s9zrC0KRqo .plan {
+.cid-svegSyGHXY .plan {
   word-break: break-word;
   position: relative;
   max-width: 300px;
@@ -2611,13 +2611,13 @@ section.lazy-placeholder:after {
   padding-left: 0;
   color: #767676;
 }
-.cid-s9zrC0KRqo .plan .list-group-item {
+.cid-svegSyGHXY .plan .list-group-item {
   position: relative;
   -webkit-justify-content: center;
   justify-content: center;
   border: 0;
 }
-.cid-s9zrC0KRqo .plan .list-group-item::after {
+.cid-svegSyGHXY .plan .list-group-item::after {
   position: absolute;
   bottom: 0;
   left: 20%;
@@ -2626,27 +2626,27 @@ section.lazy-placeholder:after {
   content: "";
   background-color: #eaeaea;
 }
-.cid-s9zrC0KRqo .plan .list-group-item:last-child::after {
+.cid-svegSyGHXY .plan .list-group-item:last-child::after {
   display: none;
 }
-.cid-s9zrC0KRqo .plan-header {
+.cid-svegSyGHXY .plan-header {
   padding-left: 1rem;
   padding-right: 1rem;
 }
-.cid-s9zrC0KRqo .plan-header,
-.cid-s9zrC0KRqo .plan-body {
+.cid-svegSyGHXY .plan-header,
+.cid-svegSyGHXY .plan-body {
   background-color: #fff;
 }
-.cid-s9zrC0KRqo .price-figure {
+.cid-svegSyGHXY .price-figure {
   font-weight: 700;
   color: #232323;
 }
-.cid-s9zrC0KRqo .price-value {
+.cid-svegSyGHXY .price-value {
   font-weight: 700;
   vertical-align: top;
 }
 @media (max-width: 550px) {
-  .cid-s9zrC0KRqo .price-figure {
+  .cid-svegSyGHXY .price-figure {
     font-size: 4.25rem;
   }
 }
