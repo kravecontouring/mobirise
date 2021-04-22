@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Krave Body Contouring",
-    "currentPage": "Menu.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4048,8 +4048,8 @@
     "Home.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "Krave Body Contouring offers non-invasive fat cavitation and radio frequency to sculpt, lift, tighten and tone - 50 % off for a limited time!",
+        "title": "Krave Body Contouring - Best in Peoria, Arizona",
+        "meta_descr": "Krave Body Contouring offers non-invasive fat cavitation and radio frequency to sculpt, lift, tighten and tone.  Also offering biomicrocurrent and radio frequency for face, neck and chin.  ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -7013,10 +7013,10 @@
         }
       ]
     },
-    "Gifts.html": {
+    "gift certificates.html": {
       "settings": {
         "meta_descr": "Purchase gift certificate for body or facial contouring online.  \nEasy to print and/or email immediately after purchase",
-        "title": "Gifts",
+        "title": "Gift Certificates",
         "order": 8
       },
       "components": [
