@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Krave Body Contouring",
-    "currentPage": "Krave Body Contouring.html",
+    "currentPage": "Krave Body Contouring - Cavitation & Radio Frequency.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -123,8 +123,8 @@
     "uniqCompNum": 132,
     "versionPublish": "4.12.3",
     "imageResize": true,
-    "sitemapSwitcher": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "siteUrl": "http://kravecontouring.com",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/favicon.ico",
     "robotsSwitcher": false,
