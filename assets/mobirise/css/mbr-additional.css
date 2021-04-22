@@ -6147,83 +6147,124 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #14cc26 !important;
 }
-.cid-snuUzEimWQ {
-  padding-top: 135px;
-  padding-bottom: 90px;
-  background-color: #efefef;
+.cid-rXHTdC93Fl {
+  padding-top: 120px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/body-contouring-cavitation-peoria-az-1920x1080.jpg");
 }
-.cid-snuUzEimWQ .card-box {
-  padding: 0 2rem;
+.cid-rXHTdC93Fl .btn {
+  margin: 0 0 .5rem 0;
 }
-.cid-snuUzEimWQ .mbr-section-btn {
-  padding-top: 1rem;
+.cid-rXHTdC93Fl H3 {
+  color: #465052;
 }
-.cid-snuUzEimWQ .mbr-section-btn a {
-  margin-top: 1rem;
-  margin-bottom: 0;
+.cid-s97fEFAdT6 {
+  background: #ffffff;
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background: linear-gradient(0deg, #4f4943, #ffffff);
 }
-.cid-snuUzEimWQ h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 2rem;
+.cid-s97fEFAdT6 .image-block {
+  margin: auto;
 }
-.cid-snuUzEimWQ p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
+.cid-s97fEFAdT6 figcaption {
+  position: relative;
 }
-.cid-snuUzEimWQ .mbr-text {
+.cid-s97fEFAdT6 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s97fEFAdT6 .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rXGIf7YtUT {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #168f22;
+}
+.cid-rXGIf7YtUT .google-map {
+  height: 25rem;
+  position: relative;
+}
+.cid-rXGIf7YtUT .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-rXGIf7YtUT .google-map [data-state-details] {
+  color: #6b6763;
+  font-family: Montserrat;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-rXGIf7YtUT .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-rXGIf7YtUT .google-map[data-state="loading"] [data-state-details] {
+  display: none;
+}
+.cid-rZQIKioJFZ {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rZQIKioJFZ .mbr-text,
+.cid-rZQIKioJFZ blockquote {
   color: #767676;
 }
-.cid-snuUzEimWQ .card-wrapper {
-  height: 100%;
-  padding-bottom: 2rem;
-  background: #ffffff;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
+.cid-rZQIKioJFZ .mbr-text P {
+  text-align: center;
 }
-.cid-snuUzEimWQ .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
+.cid-rZ6OgNivmE {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
 }
-.cid-sox8ElYwGK {
+.cid-rXSsUo48w9 {
   padding-top: 60px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
-  .cid-sox8ElYwGK .content {
+  .cid-rXSsUo48w9 .content {
     text-align: center;
   }
-  .cid-sox8ElYwGK .content > div:not(:last-child) {
+  .cid-rXSsUo48w9 .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-sox8ElYwGK .media-wrap {
+  .cid-rXSsUo48w9 .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-sox8ElYwGK .media-wrap .mbr-iconfont-logo {
+.cid-rXSsUo48w9 .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-sox8ElYwGK .media-wrap img {
+.cid-rXSsUo48w9 .media-wrap img {
   height: 6rem;
 }
 @media (max-width: 767px) {
-  .cid-sox8ElYwGK .footer-lower .copyright {
+  .cid-rXSsUo48w9 .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-sox8ElYwGK .footer-lower hr {
+.cid-rXSsUo48w9 .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-sox8ElYwGK .footer-lower .social-list {
+.cid-rXSsUo48w9 .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -6232,32 +6273,32 @@ section.lazy-placeholder:after {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-sox8ElYwGK .footer-lower .social-list .mbr-iconfont-social {
+.cid-rXSsUo48w9 .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-sox8ElYwGK .footer-lower .social-list .soc-item {
+.cid-rXSsUo48w9 .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-sox8ElYwGK .footer-lower .social-list a {
+.cid-rXSsUo48w9 .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-sox8ElYwGK .footer-lower .social-list a:hover {
+.cid-rXSsUo48w9 .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-sox8ElYwGK .footer-lower .social-list {
+  .cid-rXSsUo48w9 .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
 }
-.cid-sox8ElYwGK P {
+.cid-rXSsUo48w9 P {
   color: #ffffff;
 }
-.cid-sox8ElYwGK H5 {
+.cid-rXSsUo48w9 H5 {
   color: #14cc26;
 }
 .cid-qTkzRZLJNu .navbar {
@@ -6641,124 +6682,83 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #14cc26 !important;
 }
-.cid-rXHTdC93Fl {
-  padding-top: 120px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/body-contouring-cavitation-peoria-az-1920x1080.jpg");
+.cid-snuUzEimWQ {
+  padding-top: 135px;
+  padding-bottom: 90px;
+  background-color: #efefef;
 }
-.cid-rXHTdC93Fl .btn {
-  margin: 0 0 .5rem 0;
+.cid-snuUzEimWQ .card-box {
+  padding: 0 2rem;
 }
-.cid-rXHTdC93Fl H3 {
-  color: #465052;
+.cid-snuUzEimWQ .mbr-section-btn {
+  padding-top: 1rem;
 }
-.cid-s97fEFAdT6 {
-  background: #ffffff;
-  padding-top: 15px;
-  padding-bottom: 30px;
-  background: linear-gradient(0deg, #4f4943, #ffffff);
+.cid-snuUzEimWQ .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
 }
-.cid-s97fEFAdT6 .image-block {
-  margin: auto;
+.cid-snuUzEimWQ h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
 }
-.cid-s97fEFAdT6 figcaption {
-  position: relative;
+.cid-snuUzEimWQ p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
 }
-.cid-s97fEFAdT6 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-s97fEFAdT6 .image-block {
-    width: 100% !important;
-  }
-}
-.cid-rXGIf7YtUT {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #168f22;
-}
-.cid-rXGIf7YtUT .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-rXGIf7YtUT .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-rXGIf7YtUT .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-rXGIf7YtUT .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-rXGIf7YtUT .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
-.cid-rZQIKioJFZ {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rZQIKioJFZ .mbr-text,
-.cid-rZQIKioJFZ blockquote {
+.cid-snuUzEimWQ .mbr-text {
   color: #767676;
 }
-.cid-rZQIKioJFZ .mbr-text P {
-  text-align: center;
+.cid-snuUzEimWQ .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
 }
-.cid-rZ6OgNivmE {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
+.cid-snuUzEimWQ .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
 }
-.cid-rXSsUo48w9 {
+.cid-sox8ElYwGK {
   padding-top: 60px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
-  .cid-rXSsUo48w9 .content {
+  .cid-sox8ElYwGK .content {
     text-align: center;
   }
-  .cid-rXSsUo48w9 .content > div:not(:last-child) {
+  .cid-sox8ElYwGK .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-rXSsUo48w9 .media-wrap {
+  .cid-sox8ElYwGK .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-rXSsUo48w9 .media-wrap .mbr-iconfont-logo {
+.cid-sox8ElYwGK .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-rXSsUo48w9 .media-wrap img {
+.cid-sox8ElYwGK .media-wrap img {
   height: 6rem;
 }
 @media (max-width: 767px) {
-  .cid-rXSsUo48w9 .footer-lower .copyright {
+  .cid-sox8ElYwGK .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-rXSsUo48w9 .footer-lower hr {
+.cid-sox8ElYwGK .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-rXSsUo48w9 .footer-lower .social-list {
+.cid-sox8ElYwGK .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -6767,31 +6767,31 @@ section.lazy-placeholder:after {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-rXSsUo48w9 .footer-lower .social-list .mbr-iconfont-social {
+.cid-sox8ElYwGK .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-rXSsUo48w9 .footer-lower .social-list .soc-item {
+.cid-sox8ElYwGK .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-rXSsUo48w9 .footer-lower .social-list a {
+.cid-sox8ElYwGK .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-rXSsUo48w9 .footer-lower .social-list a:hover {
+.cid-sox8ElYwGK .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-rXSsUo48w9 .footer-lower .social-list {
+  .cid-sox8ElYwGK .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
 }
-.cid-rXSsUo48w9 P {
+.cid-sox8ElYwGK P {
   color: #ffffff;
 }
-.cid-rXSsUo48w9 H5 {
+.cid-sox8ElYwGK H5 {
   color: #14cc26;
 }
