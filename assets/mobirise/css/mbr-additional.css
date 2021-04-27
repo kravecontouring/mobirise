@@ -1308,6 +1308,205 @@ section.lazy-placeholder:after {
 .cid-sox9m6FVQc a.img {
   pointer-events: none;
 }
+.cid-svJYdRmzwt {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-svJYdRmzwt .item {
+  padding-bottom: 2rem;
+}
+.cid-svJYdRmzwt .carousel-control,
+.cid-svJYdRmzwt .close {
+  background: #1b1b1b;
+}
+.cid-svJYdRmzwt .carousel-control-prev {
+  margin-left: 2.5rem;
+}
+.cid-svJYdRmzwt .carousel-control-next {
+  margin-right: 2.5rem;
+}
+.cid-svJYdRmzwt .close {
+  position: fixed;
+  opacity: 0.5;
+  font-size: 35px;
+  font-weight: 300;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  color: #fff;
+  top: 2.5rem;
+  right: 2.5rem;
+  line-height: 70px;
+  border: none;
+  text-align: center;
+  text-shadow: none;
+  z-index: 5;
+  -webkit-transition: opacity 0.3s ease;
+  -moz-transition: opacity 0.3s ease;
+  -o-transition: opacity 0.3s ease;
+  transition: opacity 0.3s ease;
+  font-family: 'MobiriseIcons';
+}
+.cid-svJYdRmzwt .close::before {
+  content: '\e91a';
+}
+.cid-svJYdRmzwt .close:hover {
+  opacity: 1;
+  background: #000;
+  color: #fff;
+}
+.cid-svJYdRmzwt .carousel-control {
+  position: fixed;
+  width: 70px;
+  height: 70px;
+  top: 50%;
+  margin-top: -35px;
+  line-height: 70px;
+  border-radius: 50%;
+  font-size: 35px;
+  border: 0;
+  opacity: 0.5;
+  text-shadow: none;
+  z-index: 5;
+  color: #fff;
+  -webkit-transition: all 0.2s ease-in-out 0s;
+  -o-transition: all 0.2s ease-in-out 0s;
+  transition: all 0.2s ease-in-out 0s;
+}
+.cid-svJYdRmzwt .carousel-inner > .active {
+  display: block;
+}
+.cid-svJYdRmzwt .carousel-control.left {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-svJYdRmzwt .carousel-control.right {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-svJYdRmzwt .carousel-control .icon-next,
+.cid-svJYdRmzwt .carousel-control .icon-prev {
+  margin-top: -18px;
+  font-size: 40px;
+  line-height: 27px;
+}
+.cid-svJYdRmzwt .carousel-control:hover {
+  background: #1b1b1b;
+  color: #fff;
+  opacity: 1;
+}
+@media (max-width: 768px) {
+  .cid-svJYdRmzwt .carousel-control,
+  .cid-svJYdRmzwt .carousel-indicators,
+  .cid-svJYdRmzwt .modal .close {
+    position: fixed;
+  }
+}
+@media (max-width: 767px) {
+  .cid-svJYdRmzwt .mbr-slider .carousel-control {
+    top: auto;
+    bottom: 20px;
+  }
+  .cid-svJYdRmzwt .mbr-slider > .container .carousel-control {
+    margin-bottom: 0;
+  }
+}
+.cid-svJYdRmzwt .carousel-indicators {
+  bottom: 0;
+  margin-bottom: 3px;
+}
+@media (max-width: 991px) {
+  .cid-svJYdRmzwt .carousel-indicators {
+    margin-bottom: 3.625rem !important;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-svJYdRmzwt .carousel-indicators {
+    display: none;
+  }
+}
+.cid-svJYdRmzwt .carousel-indicators .active,
+.cid-svJYdRmzwt .carousel-indicators li {
+  width: 7px;
+  height: 7px;
+  margin: 3px;
+  background: #1b1b1b;
+  opacity: 0.5;
+  border: 4px solid #1b1b1b;
+}
+.cid-svJYdRmzwt .carousel-indicators .active {
+  background: #fff;
+}
+.cid-svJYdRmzwt .carousel-indicators li {
+  max-width: 15px;
+  max-height: 15px;
+  border-radius: 50%;
+}
+.cid-svJYdRmzwt .modal {
+  padding-left: 0 !important;
+  position: fixed;
+  overflow: hidden;
+  padding-right: 0 !important;
+}
+.cid-svJYdRmzwt .modal-dialog {
+  margin: 0 auto;
+  max-width: 100%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-svJYdRmzwt .modal-content {
+  border-radius: 0;
+  border: none;
+  background: transparent;
+}
+.cid-svJYdRmzwt .modal-body {
+  padding: 0;
+  display: flex;
+  align-items: center;
+}
+.cid-svJYdRmzwt .modal-body img {
+  width: 100%;
+  object-fit: contain;
+  max-height: calc(98.25vh);
+  height: fit-content;
+}
+.cid-svJYdRmzwt .carousel {
+  width: 100%;
+}
+.cid-svJYdRmzwt .modal-backdrop.in {
+  opacity: 0.8;
+}
+.cid-svJYdRmzwt .modal.fade .modal-dialog {
+  -webkit-transition: margin-top 0.3s ease-out;
+  -moz-transition: margin-top 0.3s ease-out;
+  -o-transition: margin-top 0.3s ease-out;
+  transition: margin-top 0.3s ease-out;
+}
+.cid-svJYdRmzwt .modal.fade .modal-dialog,
+.cid-svJYdRmzwt .modal.in .modal-dialog {
+  -webkit-transform: none;
+  -ms-transform: none;
+  -o-transform: none;
+  transform: none;
+}
+.cid-svJYdRmzwt .mbr-gallery .item-wrapper {
+  cursor: pointer;
+}
+.cid-svJYdRmzwt a {
+  display: block;
+}
+.cid-svJYdRmzwt a.img {
+  pointer-events: none;
+}
+.cid-svJYdRmzwt H4 {
+  text-align: left;
+}
+.cid-svJYdRmzwt H3 {
+  text-align: left;
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 30px;
