@@ -4735,9 +4735,75 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-sowYpRuz2s {
-  padding-top: 45px;
+.cid-slf4jQzhOR {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-slf4jQzhOR .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-slf4jQzhOR .section-text {
+  padding: 2rem 0;
+  color: #767676;
+}
+.cid-slf4jQzhOR .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-slf4jQzhOR .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-sw1A6QVEsE {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-sw1A6QVEsE .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sw1A6QVEsE .section-text {
+  padding: 2rem 0;
+  color: #767676;
+}
+.cid-sw1A6QVEsE .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-sw1A6QVEsE .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-sw1A4lNp08 {
+  padding-top: 30px;
   padding-bottom: 30px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-sw1A4lNp08 .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-sw1A4lNp08 .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-sw1A4lNp08 .mbr-text {
+  color: #767676;
+}
+.cid-sowYpRuz2s {
+  padding-top: 75px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/body-contouring-cavitation-peoria-az-1920x1080.jpg");
 }
 .cid-sowYpRuz2s .btn {
@@ -4749,55 +4815,10 @@ section.lazy-placeholder:after {
 .cid-sowYpRuz2s H2 {
   color: #4f4943;
 }
-.cid-slf4jQzhOR {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #333333;
-}
-.cid-slf4jQzhOR .line {
-  background-color: #0d0c0c;
-  color: #0d0c0c;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-slf4jQzhOR .section-text {
-  padding: 2rem 0;
-}
-.cid-slf4jQzhOR .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-slf4jQzhOR .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-soD1RfwVZ3 {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #333333;
-}
-.cid-soD3wnZvFm {
-  padding-top: 15px;
-  padding-bottom: 30px;
-  background-color: #333333;
-}
-.cid-sv56guGTqd {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-sv56guGTqd .mbr-text,
-.cid-sv56guGTqd blockquote {
-  color: #767676;
-}
-.cid-sv56guGTqd .mbr-text P {
-  text-align: center;
-}
 .cid-sox8Zvltac {
   padding-top: 60px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #333333;
 }
 @media (max-width: 767px) {
   .cid-sox8Zvltac .content {
