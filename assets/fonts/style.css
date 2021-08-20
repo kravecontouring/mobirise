@@ -1,10 +1,5 @@
 @font-face {
-   font-family: 'Champagne & Limousines';
+   font-family: 'Gabriola';
    font-display: swap;
-   src: url('Champagne & Limousines/font.ttf');
-}
-@font-face {
-   font-family: 'Cutie Patootie';
-   font-display: swap;
-   src: url('Cutie Patootie/font.ttf');
+   src: url('Gabriola/font.ttf');
 }
