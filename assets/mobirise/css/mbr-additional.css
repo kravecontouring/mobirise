@@ -4968,6 +4968,85 @@ section.lazy-placeholder:after {
     display: none;
   }
 }
+.cid-sYeJqtkdzm {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/best-massage-arizona-peoria-glendale-2000x1316.jpg");
+}
+.cid-sYeJqtkdzm .mbr-section-btn > * {
+  margin: 0;
+}
+.cid-sYeJqtkdzm h4 {
+  font-weight: 500;
+}
+.cid-sYeJqtkdzm p {
+  color: #232323;
+}
+.cid-sYeJqtkdzm .aside-content {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.cid-sYeJqtkdzm .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-sYeJqtkdzm .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-sYeJqtkdzm .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-sYeJqtkdzm .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-sYeJqtkdzm .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-sYeJqtkdzm .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+  .cid-sYeJqtkdzm .media-container-row {
+    -webkit-flex-direction: row-reverse;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sYeJqtkdzm .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 1rem;
+    margin-top: 2rem;
+  }
+  .cid-sYeJqtkdzm .media-container-row {
+    -webkit-flex-direction: column-reverse;
+  }
+}
+@media (max-width: 300px) {
+  .cid-sYeJqtkdzm .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-sYeJqtkdzm .cost {
+  text-decoration: line-through;
+  color: #767676;
+}
 .cid-rXHP6knQLx {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -5494,38 +5573,39 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #14cc26 !important;
 }
-.cid-swGsxNrk4M {
-  padding-top: 120px;
+.cid-sYeFuozXlv {
+  padding-top: 135px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-swGsxNrk4M h4 {
+.cid-sYeFuozXlv h4 {
   font-weight: 500;
   margin-bottom: 0;
   text-align: left;
 }
-.cid-swGsxNrk4M p {
+.cid-sYeFuozXlv p {
   color: #767676;
   text-align: left;
 }
-.cid-swGsxNrk4M .card-box {
+.cid-sYeFuozXlv .card-box {
   padding-top: 2rem;
 }
-.cid-swGsxNrk4M .card-wrapper {
+.cid-sYeFuozXlv .card-wrapper {
   height: 100%;
 }
-.cid-swGsxNrk4M .card-title {
+.cid-sYeFuozXlv .card-title {
   text-align: center;
-  color: #7f1933;
+  color: #ca081e;
 }
-.cid-swGsxNrk4M P {
+.cid-sYeFuozXlv P {
   text-align: center;
+  color: #465052;
 }
 .cid-swGsuAdVdn {
   padding-top: 15px;
   padding-bottom: 15px;
   background-color: #efefef;
-  background: linear-gradient(45deg, #efefef, #7f1933);
+  background: linear-gradient(45deg, #efefef, #ca081e);
 }
 @media (min-width: 992px) {
   .cid-swGsuAdVdn .mbr-figure {
@@ -5542,11 +5622,15 @@ section.lazy-placeholder:after {
     text-align: center;
   }
 }
+.cid-swGsuAdVdn .mbr-text,
+.cid-swGsuAdVdn .mbr-section-btn {
+  text-align: right;
+}
 .cid-swGstKqcNd {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #7f1933;
-  background: linear-gradient(45deg, #7f1933, #232323);
+  background-color: #ca081e;
+  background: linear-gradient(45deg, #ca081e, #232323);
 }
 .cid-swGstKqcNd .media-container-row {
   flex-direction: row-reverse;
@@ -5569,10 +5653,43 @@ section.lazy-placeholder:after {
     text-align: center;
   }
 }
-.cid-sAOJoXOV2B {
-  padding-top: 15px;
-  padding-bottom: 15px;
+.cid-sYeFkrAPHL {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-sYeFkrAPHL .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sYeFkrAPHL .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-sYeFkrAPHL .mbr-text {
+  color: #767676;
+  text-align: center;
+}
+.cid-sYeFpgFgsm {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-sYeFpgFgsm .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sYeFpgFgsm .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-sYeFpgFgsm .mbr-text {
+  color: #767676;
+  text-align: center;
 }
 .cid-sHrhKNjlaG {
   padding-top: 30px;
