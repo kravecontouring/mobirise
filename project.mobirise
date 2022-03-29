@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Krave Body Contouring",
-    "currentPage": "Rates.html",
+    "currentPage": "Map.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3952,7 +3952,7 @@
               "color": "#465052"
             },
             "H2": {
-              "color": "#ffffff"
+              "color": "#465052"
             }
           },
           "_name": "info2",
