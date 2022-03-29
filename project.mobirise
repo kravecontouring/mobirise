@@ -128,15 +128,15 @@
     "uniqCompNum": 218,
     "versionPublish": "5.3.10",
     "imageResize": true,
-    "sitemapSwitcher": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "siteUrl": "http://www.kravecontouring.com",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/favicon.ico",
     "robotsSwitcher": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
     "cookiesAlert": false,
-    "mbrsiteDomain": "sytfjilwyv"
+    "mbrsiteDomain": "aefk3wwox5"
   },
   "pages": {
     "FAQ.html": {
