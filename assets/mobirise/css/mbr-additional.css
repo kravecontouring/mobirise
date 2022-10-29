@@ -2,7 +2,7 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Satisfy', handwriting;
   font-size: 1.2rem;
   font-display: swap;
 }
@@ -6115,7 +6115,7 @@ section.lazy-placeholder:after {
 .cid-qTkA127IK8 .mbr-text,
 .cid-qTkA127IK8 .mbr-section-btn {
   color: #333333;
-  text-align: left;
+  text-align: center;
 }
 .cid-qTkA127IK8 H3 {
   color: #14cc26;
