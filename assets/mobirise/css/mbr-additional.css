@@ -2,12 +2,12 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Satisfy', handwriting;
-  font-size: 1.2rem;
+  font-family: 'Champagne & Limousines';
+  font-size: 1.7rem;
   font-display: swap;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 2.72rem;
 }
 .display-2 {
   font-family: 'Poppins', sans-serif;
@@ -48,9 +48,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 0.96rem;
-    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.36rem;
+    font-size: calc( 1.245rem + (1.7 - 1.245) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.245rem + (1.7 - 1.245) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -1684,7 +1684,7 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-rXH9tZXhEF {
-  padding-top: 135px;
+  padding-top: 75px;
   padding-bottom: 30px;
   background-image: url("../../../assets/images/abdominal-cavitation-radio-frequency-vacuum-therapy-1528x1017.jpg");
 }
@@ -1766,7 +1766,7 @@ section.lazy-placeholder:after {
 }
 .cid-rXH9t2VK6C {
   padding-top: 60px;
-  padding-bottom: 75px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/cavitation-neck-2000x1200.jpg");
 }
 .cid-rXH9t2VK6C .mbr-section-btn > * {
@@ -1845,292 +1845,151 @@ section.lazy-placeholder:after {
 .cid-sleMCyr27I .mbr-section-subtitle {
   color: #767676;
 }
-.cid-sv52ydAYQO {
+.cid-tqjFeWispb {
   padding-top: 30px;
-  padding-bottom: 45px;
-  background-color: #dfdfdf;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/abdominal-cavitation-radio-frequency-vacuum-therapy-1528x1017.jpg");
 }
-.cid-sv52ydAYQO .mbr-section-subtitle {
+.cid-tqjFeWispb .mbr-section-btn > * {
+  margin: 0;
+}
+.cid-tqjFeWispb h4 {
+  font-weight: 500;
+}
+.cid-tqjFeWispb p {
+  color: #232323;
+}
+.cid-tqjFeWispb .aside-content {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.cid-tqjFeWispb .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-tqjFeWispb .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-tqjFeWispb .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-tqjFeWispb .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-tqjFeWispb .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-tqjFeWispb .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tqjFeWispb .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-tqjFeWispb .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-tqjFeWispb .cost {
+  text-decoration: line-through;
   color: #767676;
 }
-.cid-sv52ydAYQO .container-table {
-  margin: 0 auto;
-}
-.cid-sv52ydAYQO .scroll {
-  overflow-x: auto;
-  padding: 0;
-}
-.cid-sv52ydAYQO .dataTables_wrapper {
-  display: block;
-}
-.cid-sv52ydAYQO .dataTables_wrapper .search {
-  margin-bottom: .5rem;
-}
-.cid-sv52ydAYQO .dataTables_wrapper .table {
-  overflow-x: auto;
-}
-.cid-sv52ydAYQO table {
-  width: 100% !important;
-  margin-top: 6px;
-  border: 1px solid #cebfaf;
-  margin-bottom: 0;
-}
-.cid-sv52ydAYQO table th {
-  border-top: none;
-  transition: all .2s;
-  border-bottom: none;
-}
-.cid-sv52ydAYQO table th:hover {
-  background: #cebfaf;
-  color: #000000;
-}
-.cid-sv52ydAYQO table td {
-  border-top: 1px solid #cebfaf;
-}
-.cid-sv52ydAYQO table.table {
-  background: #ffffff;
-}
-.cid-sv52ydAYQO .dataTables_filter {
-  text-align: right;
-  margin-bottom: .5rem;
-}
-.cid-sv52ydAYQO .dataTables_filter label {
-  display: inline;
-  white-space: normal !important;
-}
-.cid-sv52ydAYQO .dataTables_filter input {
-  display: inline;
-  width: auto;
-  margin-left: .5rem;
-  border-radius: 100px;
-  padding-left: 1rem;
-}
-.cid-sv52ydAYQO .dataTables_info {
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  white-space: normal !important;
-  color: #a39d9d;
-}
-@media (max-width: 992px) {
-  .cid-sv52ydAYQO .dataTables_filter {
-    text-align: center;
-  }
-}
-@media (max-width: 350px) {
-  .cid-sv52ydAYQO .dataTables_filter {
-    text-align: center;
-  }
-  .cid-sv52ydAYQO .dataTables_filter input {
-    width: 100% !important;
-    margin-left: 0 !important;
-  }
-}
-.cid-sv52ydAYQO .head-item {
-  text-align: center;
+.cid-tqjFeWispb H2 {
   color: #14cc26;
 }
-.cid-sv52ydAYQO .body-item {
-  text-align: center;
-  color: #333333;
+.cid-tqjFeWispb .text1 {
+  color: #465052;
 }
-.cid-sv538dqKZC {
-  padding-top: 0px;
-  padding-bottom: 45px;
-  background-color: #dfdfdf;
+.cid-tqjDZqzE1z {
+  padding-top: 60px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/2021-new-arrival-collagen-therapy-machine-800x800.jpg");
 }
-.cid-sv538dqKZC .mbr-section-subtitle {
+.cid-tqjDZqzE1z .mbr-section-btn > * {
+  margin: 0;
+}
+.cid-tqjDZqzE1z h4 {
+  font-weight: 500;
+}
+.cid-tqjDZqzE1z p {
+  color: #232323;
+}
+.cid-tqjDZqzE1z .aside-content {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.cid-tqjDZqzE1z .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-tqjDZqzE1z .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-tqjDZqzE1z .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-tqjDZqzE1z .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-tqjDZqzE1z .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-tqjDZqzE1z .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tqjDZqzE1z .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-tqjDZqzE1z .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-tqjDZqzE1z .cost {
+  text-decoration: line-through;
   color: #767676;
 }
-.cid-sv538dqKZC .container-table {
-  margin: 0 auto;
+.cid-tqjDZqzE1z H2 {
+  color: #ca081e;
 }
-.cid-sv538dqKZC .scroll {
-  overflow-x: auto;
-  padding: 0;
-}
-.cid-sv538dqKZC .dataTables_wrapper {
-  display: block;
-}
-.cid-sv538dqKZC .dataTables_wrapper .search {
-  margin-bottom: .5rem;
-}
-.cid-sv538dqKZC .dataTables_wrapper .table {
-  overflow-x: auto;
-}
-.cid-sv538dqKZC table {
-  width: 100% !important;
-  margin-top: 6px;
-  border: 1px solid #cebfaf;
-  margin-bottom: 0;
-}
-.cid-sv538dqKZC table th {
-  border-top: none;
-  transition: all .2s;
-  border-bottom: none;
-}
-.cid-sv538dqKZC table th:hover {
-  background: #cebfaf;
-  color: #000000;
-}
-.cid-sv538dqKZC table td {
-  border-top: 1px solid #cebfaf;
-}
-.cid-sv538dqKZC table.table {
-  background: #ffffff;
-}
-.cid-sv538dqKZC .dataTables_filter {
-  text-align: right;
-  margin-bottom: .5rem;
-}
-.cid-sv538dqKZC .dataTables_filter label {
-  display: inline;
-  white-space: normal !important;
-}
-.cid-sv538dqKZC .dataTables_filter input {
-  display: inline;
-  width: auto;
-  margin-left: .5rem;
-  border-radius: 100px;
-  padding-left: 1rem;
-}
-.cid-sv538dqKZC .dataTables_info {
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  white-space: normal !important;
-  color: #a39d9d;
-}
-@media (max-width: 992px) {
-  .cid-sv538dqKZC .dataTables_filter {
-    text-align: center;
-  }
-}
-@media (max-width: 350px) {
-  .cid-sv538dqKZC .dataTables_filter {
-    text-align: center;
-  }
-  .cid-sv538dqKZC .dataTables_filter input {
-    width: 100% !important;
-    margin-left: 0 !important;
-  }
-}
-.cid-sv538dqKZC .head-item {
-  text-align: center;
-  color: #14cc26;
-}
-.cid-sv538dqKZC .body-item {
-  text-align: center;
-  color: #333333;
-}
-.cid-sv51Oavtz3 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #7f1933;
-}
-.cid-sv51Oavtz3 .line {
-  background-color: #7f1933;
-  color: #7f1933;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-sv51Oavtz3 .section-text {
-  padding: 2rem 0;
-}
-.cid-sv51Oavtz3 .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-sv51Oavtz3 .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-sv51PXHxg5 {
-  padding-top: 45px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/red-light-therapy-photobiomodulation-633nm-650nm-810nm-850nm-500x500.jpg");
-}
-.cid-sv51PXHxg5 .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-sv51PXHxg5 .container-table {
-  margin: 0 auto;
-}
-.cid-sv51PXHxg5 .scroll {
-  overflow-x: auto;
-  padding: 0;
-}
-.cid-sv51PXHxg5 .dataTables_wrapper {
-  display: block;
-}
-.cid-sv51PXHxg5 .dataTables_wrapper .search {
-  margin-bottom: .5rem;
-}
-.cid-sv51PXHxg5 .dataTables_wrapper .table {
-  overflow-x: auto;
-}
-.cid-sv51PXHxg5 table {
-  width: 100% !important;
-  margin-top: 6px;
-  border: 1px solid #cebfaf;
-  margin-bottom: 0;
-}
-.cid-sv51PXHxg5 table th {
-  border-top: none;
-  transition: all .2s;
-  border-bottom: none;
-}
-.cid-sv51PXHxg5 table th:hover {
-  background: #cebfaf;
-  color: #000000;
-}
-.cid-sv51PXHxg5 table td {
-  border-top: 1px solid #cebfaf;
-}
-.cid-sv51PXHxg5 table.table {
-  background: #ffffff;
-}
-.cid-sv51PXHxg5 .dataTables_filter {
-  text-align: right;
-  margin-bottom: .5rem;
-}
-.cid-sv51PXHxg5 .dataTables_filter label {
-  display: inline;
-  white-space: normal !important;
-}
-.cid-sv51PXHxg5 .dataTables_filter input {
-  display: inline;
-  width: auto;
-  margin-left: .5rem;
-  border-radius: 100px;
-  padding-left: 1rem;
-}
-.cid-sv51PXHxg5 .dataTables_info {
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  white-space: normal !important;
-  color: #a39d9d;
-}
-@media (max-width: 992px) {
-  .cid-sv51PXHxg5 .dataTables_filter {
-    text-align: center;
-  }
-}
-@media (max-width: 350px) {
-  .cid-sv51PXHxg5 .dataTables_filter {
-    text-align: center;
-  }
-  .cid-sv51PXHxg5 .dataTables_filter input {
-    width: 100% !important;
-    margin-left: 0 !important;
-  }
-}
-.cid-sv51PXHxg5 .head-item {
-  text-align: center;
-  color: #7f1933;
-}
-.cid-sv51PXHxg5 .body-item {
-  text-align: center;
-  color: #333333;
+.cid-tqjDZqzE1z .text1 {
+  color: #465052;
 }
 .cid-s1QzNKqwqe {
   padding-top: 30px;
@@ -2721,7 +2580,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rYxaIS4sq5 {
-  padding-top: 15px;
+  padding-top: 45px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
@@ -2740,8 +2599,8 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-sAOJeeOtvg {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-sHrhUvYmNY {
@@ -3231,8 +3090,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sIUTyK4M2k {
-  padding-top: 105px;
-  padding-bottom: 105px;
+  padding-top: 0px;
+  padding-bottom: 75px;
   background-image: url("../../../assets/images/body-contouring-cavitation-peoria-az-1920x1080.jpg");
 }
 .cid-sIUTyK4M2k .btn {
@@ -3243,6 +3102,270 @@ section.lazy-placeholder:after {
 }
 .cid-sIUTyK4M2k H2 {
   color: #4f4943;
+}
+.cid-tqjAy1JTwD {
+  padding-top: 30px;
+  padding-bottom: 45px;
+  background-color: #efefef;
+}
+.cid-tqjAy1JTwD .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-tqjAy1JTwD .container-table {
+  margin: 0 auto;
+}
+.cid-tqjAy1JTwD .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-tqjAy1JTwD .dataTables_wrapper {
+  display: block;
+}
+.cid-tqjAy1JTwD .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-tqjAy1JTwD .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-tqjAy1JTwD table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-tqjAy1JTwD table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-tqjAy1JTwD table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-tqjAy1JTwD table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-tqjAy1JTwD table.table {
+  background: #ffffff;
+}
+.cid-tqjAy1JTwD .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-tqjAy1JTwD .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-tqjAy1JTwD .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-tqjAy1JTwD .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+  color: #a39d9d;
+}
+@media (max-width: 992px) {
+  .cid-tqjAy1JTwD .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-tqjAy1JTwD .dataTables_filter {
+    text-align: center;
+  }
+  .cid-tqjAy1JTwD .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-tqjAy1JTwD .head-item {
+  text-align: center;
+  color: #14cc26;
+}
+.cid-tqjAy1JTwD .body-item {
+  text-align: center;
+  color: #333333;
+}
+.cid-tqjB8UpWsy {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background-color: #efefef;
+}
+.cid-tqjB8UpWsy .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-tqjB8UpWsy .container-table {
+  margin: 0 auto;
+}
+.cid-tqjB8UpWsy .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-tqjB8UpWsy .dataTables_wrapper {
+  display: block;
+}
+.cid-tqjB8UpWsy .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-tqjB8UpWsy .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-tqjB8UpWsy table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-tqjB8UpWsy table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-tqjB8UpWsy table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-tqjB8UpWsy table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-tqjB8UpWsy table.table {
+  background: #ffffff;
+}
+.cid-tqjB8UpWsy .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-tqjB8UpWsy .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-tqjB8UpWsy .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-tqjB8UpWsy .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+  color: #a39d9d;
+}
+@media (max-width: 992px) {
+  .cid-tqjB8UpWsy .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-tqjB8UpWsy .dataTables_filter {
+    text-align: center;
+  }
+  .cid-tqjB8UpWsy .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-tqjB8UpWsy .head-item {
+  text-align: center;
+  color: #14cc26;
+}
+.cid-tqjB8UpWsy .body-item {
+  text-align: center;
+  color: #333333;
+}
+.cid-tqjB9CXWKX {
+  padding-top: 45px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/red-light-therapy-photobiomodulation-633nm-650nm-810nm-850nm-1-500x500.jpg");
+}
+.cid-tqjB9CXWKX .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-tqjB9CXWKX .container-table {
+  margin: 0 auto;
+}
+.cid-tqjB9CXWKX .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-tqjB9CXWKX .dataTables_wrapper {
+  display: block;
+}
+.cid-tqjB9CXWKX .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-tqjB9CXWKX .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-tqjB9CXWKX table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-tqjB9CXWKX table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-tqjB9CXWKX table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-tqjB9CXWKX table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-tqjB9CXWKX table.table {
+  background: #ffffff;
+}
+.cid-tqjB9CXWKX .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-tqjB9CXWKX .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-tqjB9CXWKX .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-tqjB9CXWKX .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+  color: #a39d9d;
+}
+@media (max-width: 992px) {
+  .cid-tqjB9CXWKX .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-tqjB9CXWKX .dataTables_filter {
+    text-align: center;
+  }
+  .cid-tqjB9CXWKX .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-tqjB9CXWKX .head-item {
+  text-align: center;
+  color: #7f1933;
+}
+.cid-tqjB9CXWKX .body-item {
+  text-align: center;
+  color: #333333;
 }
 .cid-sHridQUp8c {
   padding-top: 30px;
@@ -6783,8 +6906,8 @@ section.lazy-placeholder:after {
 }
 .cid-snuUzEimWQ {
   padding-top: 135px;
-  padding-bottom: 90px;
-  background-color: #efefef;
+  padding-bottom: 30px;
+  background-color: #ffffff;
 }
 .cid-snuUzEimWQ .card-box {
   padding: 0 2rem;
@@ -6821,10 +6944,80 @@ section.lazy-placeholder:after {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-.cid-sAOJ0DyJm5 {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
+.cid-tqjzeCEEXx {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-tqjzeCEEXx h2 {
+  text-align: left;
+}
+.cid-tqjzeCEEXx h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-tqjzeCEEXx p {
+  color: #767676;
+  text-align: left;
+}
+.cid-tqjzeCEEXx .aside-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-tqjzeCEEXx .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-tqjzeCEEXx .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-tqjzeCEEXx .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-tqjzeCEEXx .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-tqjzeCEEXx .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-tqjzeCEEXx .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tqjzeCEEXx .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-tqjzeCEEXx .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-tqjzeCEEXx P {
+  text-align: center;
+  color: #465052;
+}
+.cid-tqjzeCEEXx H2 {
+  text-align: center;
+  color: #465052;
+}
+.cid-tqjzY7KD9P {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #efefef;
 }
 .cid-sHrihYJkI8 {
   padding-top: 30px;
