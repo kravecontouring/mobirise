@@ -1967,6 +1967,11 @@ section.lazy-placeholder:after {
 @media (min-width: 992px) {
   .cid-tqjDZqzE1z .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+  .cid-tqjDZqzE1z .media-container-row {
+    -webkit-flex-direction: row-reverse;
   }
 }
 @media (max-width: 991px) {
@@ -1974,6 +1979,13 @@ section.lazy-placeholder:after {
     padding-right: 0;
     padding-bottom: 1rem;
     margin-bottom: 2rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 1rem;
+    margin-top: 2rem;
+  }
+  .cid-tqjDZqzE1z .media-container-row {
+    -webkit-flex-direction: column-reverse;
   }
 }
 @media (max-width: 300px) {
@@ -1987,9 +1999,11 @@ section.lazy-placeholder:after {
 }
 .cid-tqjDZqzE1z H2 {
   color: #ca081e;
+  text-align: right;
 }
 .cid-tqjDZqzE1z .text1 {
   color: #465052;
+  text-align: right;
 }
 .cid-s1QzNKqwqe {
   padding-top: 30px;
